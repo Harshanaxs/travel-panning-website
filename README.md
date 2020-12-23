@@ -14,6 +14,7 @@ Users :
   Ask For Offers & Cancel Their Bookings (Have some Bugs)
   
   Demo : https://travelcalculator-3aa63.web.app/
+  Admin : https://travelcalculator-3aa63.web.app/admin  (Router Guards Off for the testing purposes)
   
 
 ```
